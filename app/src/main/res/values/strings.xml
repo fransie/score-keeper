@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="fouls">Fouls</string>
+    <string name="outs">Outs</string>
+    <string name="innings">Innings</string>
+    <string name="add_foul">Add Foul</string>
+    <string name="add_out">Add out</string>
+    <string name="add_inning">Add inning</string>
+    <string name="reset">Reset</string>
+    <string name="zero">0</string>
+</resources>
